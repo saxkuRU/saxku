@@ -1,0 +1,51 @@
+            body {
+                font-family: Arial;
+                font-size: 20px;
+                color: #000000;
+                margin-left: auto;
+                margin-right: auto;
+                background-image: url('img/fon.png');
+                background-repeat: no-repeat;
+                background-size: cover;
+                text-align: center;
+            }
+            a {
+              color: #000000;
+              font-size: 20px;
+              font-family: Arial;
+              text-align: center;
+              text-decoration: none;
+            }
+            a:hover {
+              text-decoration: underline;
+            }
+            
+            p {
+              color: #000000;
+              font-size: 20px;
+              font-family: Arial;
+              text-align: center;
+            }
+            h1 {
+                color: #000000;
+                font-size: 30px;
+                font-family: Arial;
+                text-align: center;
+            }
+            h2 {
+                color: #000000;
+                font-size: 35px;
+                font-family: Arial;
+                text-align: center;
+            }
+            hr {
+                border-top: 5px solid black;
+                border-radius: 10px;
+                text-align: center;
+            }
+            img {
+                    display: block;
+                    text-align: center;
+                    margin-left: auto;
+                    margin-right: auto;
+            }
